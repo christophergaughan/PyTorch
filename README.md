@@ -122,7 +122,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Enjoy exploring PyTorch implementations! If you find this project helpful, don't forget to star the repository!
 
-# Also from "Attention Is All You Need" paper:
+
+
+# Also more detail from "Attention Is All You Need" paper:
 
 # Positional Encodings in PyTorch
 
