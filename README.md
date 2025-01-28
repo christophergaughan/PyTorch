@@ -63,13 +63,6 @@ pip install torch matplotlib numpy
 - **`generate_positional_encodings(d_model, max_len)`**: Generates sinusoidal positional encodings.
 - **Integration Example**: Shows how to incorporate positional encodings into transformer-based models.
 
-## Visualization Example
-
-The notebook includes visualizations like the one below to illustrate the periodic patterns of sinusoidal encodings:
-
-![Positional Encodings Visualization](example_visualization.png)  
-(*Note: Replace with your generated visualization if available.*)
-
 ## Applications
 
 - Enhancing transformer-based architectures for NLP tasks.
