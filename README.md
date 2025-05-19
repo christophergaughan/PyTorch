@@ -15,7 +15,7 @@ This repository contains practical, educational examples built with PyTorch 2.5.
 ### 📍 Positional Encodings
 > *Built from scratch to explore transformer positional encoding using sine/cosine signals*
 
-- Implements sinusoidal encodings from “Attention Is All You Need” [Link Text](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Implements sinusoidal encodings from “Attention Is All You Need” [Original Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - Visualizes encodings across positions & dimensions
 - Explains how sequential token order is encoded in models like BERT
 - Code: `Positional_Encodings.ipynb`
